@@ -1,0 +1,4 @@
+workflow_automation/repositories/*
+# *.json
+tmp/*
+nohup.out

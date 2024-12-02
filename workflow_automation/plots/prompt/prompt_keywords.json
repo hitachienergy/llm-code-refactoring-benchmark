@@ -1,0 +1,10 @@
+{
+    "0": "Bugs, Fix",
+    "1": "Rewrite, Efficiency",
+    "2": "Refactor, Readability",
+    "3": "Refactor, CodeBlock",
+    "4": "Improve, SufficientQuality",
+    "5": "Bugs, CodeBlock",
+    "6": "Rewrite, CodeBlock",
+    "7": "Improve, BackwardCompatible"
+}

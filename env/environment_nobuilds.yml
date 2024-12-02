@@ -1,0 +1,5 @@
+name: llama2
+channels:
+  - defaults
+variables:
+  HOST: ${HOST_IP}
